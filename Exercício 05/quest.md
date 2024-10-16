@@ -1,0 +1,5 @@
+### Quando Usar CSS Grid
+
+- Layouts Bidimensionais: O CSS Grid é ideal para layouts que precisam organizar elementos em duas dimensões (linhas e colunas). Por exemplo, um layout de galeria de fotos onde você quer que as imagens se alinhem tanto horizontalmente quanto verticalmente1.
+- Layouts Complexos: Se você precisa de um layout complexo com várias áreas de conteúdo que se ajustam de maneira específica, o Grid é a melhor escolha. Um exemplo seria um layout de página inicial de um site de notícias, onde você tem várias seções como manchetes, artigos, e barras laterais2.
+- Controle Preciso de Espaçamento: O Grid permite um controle mais preciso sobre o espaçamento entre os elementos. Isso é útil em layouts como dashboards, onde você precisa que os widgets se alinhem perfeitamente em uma grade
